@@ -1,4 +1,4 @@
-# Parralax Site
+# Parallax Site
 
 Interesting scrolling with parallax effect
 
